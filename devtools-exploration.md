@@ -19,4 +19,12 @@
 
 ## Website 3
 1. On [babypips.com](https://www.babypips.com/) there are the **div, section, script, footer and iframe** elements.
-2. 
+2. The inputs of the form element are: 
+    ```html
+    <form id="user-form" action="/submit" method="POST">
+        <input type="text" name="username" placeholder="Username">
+        <button type="submit">Submit</button>
+    </form>
+    ```
+3. ![screenshot of the elements page](./images/elements.JPG)
+
