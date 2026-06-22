@@ -6,7 +6,7 @@
 - **Date:** June 16, 2026
 
 ## Project Description
-Brief description of what you built and why.
+This was an intro to web foundations where i practiced what i had learned during the first lesson of my computer programming course. This assignment enabled me to gain beginner experience to the world of progamming.
 
 ## Technologies Used
 - HTML5
@@ -19,4 +19,7 @@ Brief description of what you built and why.
 
 ## Lessons Learned
 - Programing needs one to practice daily
+
+## Task 2.5
+[View the article I wrote on dev.to](https://dev.to/its_kaysir/building-a-better-web-4fh5)
 
